@@ -1,0 +1,1 @@
+select * from jc_country_struct where area_id like ('02___0000000') and area_id <> '020000000000'
